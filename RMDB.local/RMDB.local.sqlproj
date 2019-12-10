@@ -70,5 +70,6 @@
     <Build Include="dm\PRODUCTS.sql" />
     <Build Include="dm\BRANCHES.sql" />
     <Build Include="dm\REJECTIONS.sql" />
+    <Build Include="dm\VINTAGES.sql" />
   </ItemGroup>
 </Project>
